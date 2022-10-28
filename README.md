@@ -4,4 +4,4 @@
 </div>
 
 ## About The Problem
-<img src="https://drive.google.com/file/d/1XUwnzH5cFAMAJVy50tuTs7z5v_08dQLt/view?usp=sharing" alt="UMN Programmer Test" />
+Aplikasi penemu pelanggar verifikasi KTP untuk program voucher diskon 20% dari waralaba PT. XYZ untuk setiap anggota yang sudah terverifikasi, di mana ditemukan sejumlah data KTP yang terbilang ganda atau lebih. Karena peraturan program tersebut adalah satu KTP hanya untuk satu kali verifikasi data.
