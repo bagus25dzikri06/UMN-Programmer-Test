@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center"> 
-  <h3 align="center">UMN Programmer Test</h3>
+  <h1 align="center">UMN Programmer Test</h1>
 </div>
 
 ## About The Problem
